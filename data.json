@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "book1",
+        "author": "a6",
+        "year": 2001,
+        "status": "в наличии"
+    },
+    {
+        "id": 3,
+        "title": "book3",
+        "author": "a3",
+        "year": 2003,
+        "status": "в наличии"
+    },
+    {
+        "id": 4,
+        "title": "book4",
+        "author": "a4",
+        "year": 2001,
+        "status": "в наличии"
+    },
+    {
+        "id": 5,
+        "title": "book5",
+        "author": "a6",
+        "year": 2005,
+        "status": "в наличии"
+    },
+    {
+        "id": 6,
+        "title": "book6",
+        "author": "a6",
+        "year": 2001,
+        "status": "в наличии"
+    },
+    {
+        "id": 7,
+        "title": "book7",
+        "author": "a3",
+        "year": 2007,
+        "status": "в наличии"
+    },
+    {
+        "id": 8,
+        "title": "book8",
+        "author": "a8",
+        "year": 2003,
+        "status": "выдана"
+    },
+    {
+        "id": 9,
+        "title": "dddd",
+        "author": "ffff",
+        "year": 2020,
+        "status": "в наличии"
+    }
+]
